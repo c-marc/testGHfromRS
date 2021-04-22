@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-plot(pressure, type="l")
+plot(pressure, type="l", main="test")
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
