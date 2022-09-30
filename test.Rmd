@@ -22,7 +22,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ## R Markdown
 
-This is it
+This is it.
 
 ```{r cars}
 summary(cars)
